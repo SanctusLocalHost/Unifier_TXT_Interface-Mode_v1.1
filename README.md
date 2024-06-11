@@ -1,6 +1,6 @@
 # File_Unifier
 
-# Concatenador de Arquivos de Texto
+# Agrupador de Arquivos de Texto
 
 Este é um script em Python criado inicialmente para Agrupar Arquivos da Bipagem de um Scanner de Códigos de Barra. Permite Concatenar o conteúdo de todos os arquivos de texto em um diretório selecionado.
 
